@@ -1,0 +1,6 @@
+{
+  "name": "Cupflix2026",
+  "description": "Premium Cupflix2026 live TV streaming application with interactive match schedules, live chat, multi-channel layouts, administrator control board, and parental PIN protections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
